@@ -7,7 +7,7 @@
 # * Chances are you only need to change the ota_url in this file 
 #
 ota_url=https://raw.githubusercontent.com/liquid0624/LROTA/oc-mr2/oneplus5.xml
-release_type=Unofficial
+release_type=Weekly
 device_name=ro.liquid.device
 
 #

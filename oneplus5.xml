@@ -32,36 +32,36 @@
             	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
         </dumpling>
     </Official>
-    <Unofficial>
+    <Weekly>
         <cheeseburger>
-            <Filename>9.1.4-20180724-UNOFFICIAL-cheeseburger.zip</Filename>
+            <Filename>9.1.4-20180801-WEEKLY-cheeseburger.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for cheeseburger">https://www.androidfilehost.com/?fid=5862345805528056865</RomUrl>
+                description="Download latest build for cheeseburger">https://www.androidfilehost.com/?fid=5862345805528063317</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://del.dog/upuwiyedef.coffeescript</ChangelogUrl>
+                description="Click here to view latest changes">https://del.dog/wafayomiho.coffeescript</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
         </cheeseburger>
         <dumpling>
-            <Filename>9.1.4-20180724-UNOFFICIAL-dumpling.zip</Filename>
+            <Filename>9.1.4-20180801-WEEKLY-dumpling.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for dumpling">https://www.androidfilehost.com/?fid=5862345805528056866</RomUrl>
+                description="Download latest build for dumpling">https://www.androidfilehost.com/?fid=5862345805528063318</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://del.dog/upuwiyedef.coffeescript</ChangelogUrl>
+                description="Click here to view latest changes">https://del.dog/wafayomiho.coffeescript</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
         </dumpling>
-    </Unofficial>
+    </Weekly>
 </SlimOTA>
