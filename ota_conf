@@ -6,8 +6,8 @@
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
 # * Chances are you only need to change the ota_url in this file 
 #
-ota_url=https://raw.githubusercontent.com/liquid0624/LROTA/oc-mr2/oneplus5.xml
-release_type=Weekly
+ota_url=https://raw.githubusercontent.com/liquid0624/LROTA/oc-mr2/oneplus.xml
+release_type=Official
 device_name=ro.liquid.device
 
 #
