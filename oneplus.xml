@@ -1,46 +1,46 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <cheeseburger>
-            <Filename>9.1.4-20180808-OFFICIAL-cheeseburger.zip</Filename>
+            <Filename>9.1.4-20180810-OFFICIAL-cheeseburger.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for cheeseburger">https://www.androidfilehost.com/?fid=5862345805528047585</RomUrl>
+                description="Download latest build for cheeseburger">https://www.androidfilehost.com/?fid=3700668719832238168</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://del.dog/ocejevetin.coffeescript</ChangelogUrl>
+                description="Click here to view latest changes">https://del.dog/raqejomano.coffeescript</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
         </cheeseburger>
         <dumpling>
-            <Filename>9.1.4-20180808-OFFICIAL-dumpling.zip</Filename>
+            <Filename>9.1.4-20180810-OFFICIAL-dumpling.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for dumpling">https://www.androidfilehost.com/?fid=5862345805528047586</RomUrl>
+                description="Download latest build for dumpling">https://www.androidfilehost.com/?fid=3700668719832238148</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://del.dog/ocejevetin.coffeescript</ChangelogUrl>
+                description="Click here to view latest changes">https://del.dog/raqejomano.coffeescript</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
         </dumpling>
         <enchilada>
-            <Filename>9.1.4-20180808-OFFICIAL-enchilada.zip</Filename>
+            <Filename>9.1.4-20180810-OFFICIAL-enchilada.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for enchilada">https://www.androidfilehost.com/?fid=5862345805528047586</RomUrl>
+                description="Download latest build for enchilada">https://www.androidfilehost.com/?fid=3700668719832237831</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://del.dog/ocejevetin.coffeescript</ChangelogUrl>
+                description="Click here to view latest changes">https://del.dog/raqejomano.coffeescript</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
