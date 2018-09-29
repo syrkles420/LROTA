@@ -2,36 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <enchilada>
-            <Filename>9.1.5-20180915-OFFICIAL-enchilada.zip</Filename>
+            <Filename>10.0.0-20180925-OFFICIAL-enchilada.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for enchilada">https://www.androidfilehost.com/?fid=1322778262904006328</RomUrl>
+                description="Download latest build for enchilada">https://www.androidfilehost.com/?fid=1322778262904013571</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://del.dog/ericitijut.coffeescript</ChangelogUrl>
+                description="Click here to view latest changes">https://del.dog/qiwukijavo.coffeescript</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
-            	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
+            	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
         </enchilada>
     </Official>
-    <Weekly>
-        <enchilada>
-            <Filename>9.1.5-20180831-WEEKLY-enchilada.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="LiquidRemix"
-                description="Download latest build for enchilada">https://www.androidfilehost.com/?fid=1322778262903995514</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="Click here to view latest changes">https://del.dog/anumifepex.coffeescript</ChangelogUrl>
-            <OpenGappsUrl
-            	id="open_gapps"
-            	title="OpenGApps"
-            	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
-        </enchilada>
-    </Weekly>
 </SlimOTA>
