@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <enchilada>
-            <Filename>10.0.1-20181021-OFFICIAL-enchilada.zip</Filename>
+            <Filename>10.0.1-20181112-OFFICIAL-enchilada.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for enchilada">https://www.androidfilehost.com/?fid=11410932744536985254</RomUrl>
+                description="Download latest build for enchilada">https://www.androidfilehost.com/?fid=11410963190603845224</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://del.dog/ikatahexox.coffeescript</ChangelogUrl>
+                description="Click here to view latest changes">https://del.dog/oguvixohig.coffeescript</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
