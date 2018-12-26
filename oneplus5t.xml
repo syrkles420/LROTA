@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for enchilada">https://sourceforge.net/projects/liquid-remix/files/dumpling/liquid_remix-10.0.3-2018122w-OFFICIAL-dumpling.zip/download</RomUrl>
+                description="Download latest build for enchilada">https://sourceforge.net/projects/liquid-remix/files/dumpling/liquid_remix-10.0.3-20181222-OFFICIAL-dumpling.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
